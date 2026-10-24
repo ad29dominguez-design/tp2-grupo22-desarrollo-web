@@ -25,7 +25,7 @@ export const members = [
     bio: "Escribir aquí una presentación más completa: intereses, habilidades, experiencia y aporte al equipo.",
     hobbies: ["Hobby 1", "Hobby 2", "Hobby 3"],
     skills: ["Habilidad 1", "Habilidad 2", "Habilidad 3"],
-    github: "https://github.com/USUARIO_2"
+    github: "https://github.com/CimarGomez"
   },
   {
     id: "integrante-3",
